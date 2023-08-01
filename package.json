@@ -9,7 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@plasmicapp/cli": "^0.1.302",
     "@plasmicapp/loader-nextjs": "^1.0.304",
+    "@plasmicapp/react-web": "^0.2.244",
+    "@plasmicpkgs/plasmic-basic-components": "^0.0.168",
+    "@plasmicpkgs/plasmic-cms": "^0.0.207",
+    "@plasmicpkgs/plasmic-nav": "^0.0.127",
+    "@plasmicpkgs/plasmic-query": "^0.0.173",
+    "@plasmicpkgs/plasmic-wordpress": "^0.0.78",
     "@types/node": "20.4.5",
     "@types/react": "18.2.18",
     "@types/react-dom": "18.2.7",
@@ -18,6 +25,8 @@
     "next": "13.4.12",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
     "typescript": "5.1.6"
   }
 }
