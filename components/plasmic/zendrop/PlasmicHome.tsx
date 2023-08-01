@@ -1006,7 +1006,7 @@ function PlasmicHome__RenderFunc(props: {
                           }
                           <React.Fragment>
                             {
-                              " eliminated every imaginable constraint and allowed me to focus solely on driving sales. \n\nAnd I was no ad expert by any means, I just used my imagination and hired an Upwork media buyer to translate my vision into paid ad campaigns. \n\nMy Shopify store exploded... and the best was I done it:\n\n\u274c "
+                              " eliminated every imaginable constraint and allowed me to focus solely on driving sales. \n\nAnd I was no ad expert by any means, I just used my imagination and hired an Upwork media buyer to translate my vision into paid ad campaigns. \n\nMy Shopify store exploded... and the best part was I done it all:\n\n\u274c "
                             }
                           </React.Fragment>
                           <span
