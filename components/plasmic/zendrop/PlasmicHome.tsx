@@ -886,7 +886,7 @@ function PlasmicHome__RenderFunc(props: {
                           </span>
                           <React.Fragment>
                             {
-                              " Place yourself inside of someone else. Observe your reality through the perspective of this other person. Visualize how this other person would experience you, your life, your home, your belongings. Now open your eyes and either fall in love with the visualization of how this other person perceives or change it by crafting your own destiny.\n\n"
+                              " Place yourself inside of someone else. Observe your reality through the perspective of this other person. Visualize how this other person would experience you, your life, your home, your belongings. Now open your eyes and either fall in love with the visualization of how this other person perceives your world or change it by crafting a new destiny.\n\n"
                             }
                           </React.Fragment>
                           <span
