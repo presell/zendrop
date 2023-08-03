@@ -1006,7 +1006,7 @@ function PlasmicArticle1__RenderFunc(props: {
                           }
                           <React.Fragment>
                             {
-                              " eliminated every imaginable constraint and allowed me to focus solely on driving sales. \n\nAnd I was no ad expert by any means, I just used my imagination and hired an Upwork media buyer to translate my vision into paid ad campaigns. \n\nMy Shopify store exploded... and the best was I done it:\n\n\u274c "
+                              " eliminated every imaginable constraint and allowed me to focus solely on driving sales. \n\nAnd I was no ad expert by any means, I just used my imagination and hired an Upwork media buyer to translate my vision into paid ad campaigns. \n\nMy Shopify store exploded... and the best part was I done it:\n\n\u274c "
                             }
                           </React.Fragment>
                           <span
@@ -1018,7 +1018,9 @@ function PlasmicArticle1__RenderFunc(props: {
                             {"WITHOUT"}
                           </span>
                           <React.Fragment>
-                            {" dropshipping from Aliexpress\n\n\u2705 "}
+                            {
+                              " dropshipping from random Chinese factories\n\n\u2705 "
+                            }
                           </React.Fragment>
                           <span
                             className={
@@ -1056,7 +1058,7 @@ function PlasmicArticle1__RenderFunc(props: {
                         )}
                       >
                         {
-                          "Dropshipping from Aliexpress is a dead business model. \n\nThe only way to succeed is by starting a brand. \n\nA brand that has a unique identify, that resonates with a specific customer, and that delivers a unique solution to burning desire.\n\nIts impossible to build a trusted brand dropshipping from Aliexpress because:\n\n\u274c The products will never reach customers in time (30+ days)\n\u274c The packaging will contain tons of chinese inserts\n\u274c The customer will have a terrible experience and never buy from you again...\n\nEverything changed for me when I switched to US suppliers who:\n\n\u2705 Shipped the products same-day\n\u2705 Fulfilled orders automatically without a VA \n\u2705 Added my custom branded inserts to the packaging \n\nAfter making the pivot, I went on a cross-country trip from Los Angeles to Florida. \n\nBy the end of the first day, I did over $2,000!\n\nI was amazed!\n\nI thanked the universe for money but I knew deep down it couldn't last forever.\n\nExpect it kinda did... \n\nThe sales just kept growing and growing...\n\nDay 2 - $7,500 in sales\nDay 3 - $15,000 in sales\nDay 4 - $35,000 in sales\nDay 5 - $50,000 in sales\n\n60 days later I made over $2 million dollars!\n\nI bought that sweet new Lambo (my dream car).\n\nMy life had forever changed, thanks to dropshipping the 'Zen' way. "
+                          "Plain old dropshipping is a dead business model. \n\nThe only way to create long-term value is by building a brand. \n\nA brand that has a unique identify, that resonates with a specific customer, and that delivers a unique solution to burning desire.\n\nIts impossible to build a trusted brand dropshipping without reliable suppliers because:\n\n\u274c The products will never reach customers in time (30+ day shipping)\n\u274c The packaging will contain tons of chinese inserts\n\u274c The customer will have a terrible experience and never buy from you again...\n\nEverything changed for me when I switched to US suppliers who:\n\n\u2705 Shipped the products same-day\n\u2705 Fulfilled orders automatically without a VA \n\u2705 Added my custom branded inserts to the packaging \n\nAfter making the pivot, I went on a cross-country trip from Los Angeles to Florida. \n\nBy the end of the first day, I did over $2,000!\n\nI was amazed!\n\nI thanked the universe for money but I knew deep down it couldn't last forever.\n\nExpect it kinda did... \n\nThe sales just kept growing and growing...\n\nDay 2 - $7,500 in sales\nDay 3 - $15,000 in sales\nDay 4 - $35,000 in sales\nDay 5 - $50,000 in sales\n\n60 days later I made over $2 million dollars!\n\nI bought that sweet new Lambo (my dream car).\n\nMy life had forever changed, thanks to dropshipping the 'Zen' way. "
                         }
                       </div>
                       <div
