@@ -1446,7 +1446,20 @@ function PlasmicArticle1__RenderFunc(props: {
                         <React.Fragment>
                           <React.Fragment>
                             {
-                              "Long story short, I cashed out my Shopify stores, and now I am giving away everything to help you succeed too. \n \nI packaged up all the goods inside "
+                              "Long story short, I cashed out my Shopify stores, and now "
+                            }
+                          </React.Fragment>
+                          <span
+                            className={
+                              "plasmic_default__all plasmic_default__span"
+                            }
+                            style={{ fontWeight: 700 }}
+                          >
+                            {"I am giving away everything"}
+                          </span>
+                          <React.Fragment>
+                            {
+                              " to help you succeed too. \n \nI packaged up all the goods inside "
                             }
                           </React.Fragment>
                           {
