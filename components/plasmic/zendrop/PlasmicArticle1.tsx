@@ -419,7 +419,7 @@ function PlasmicArticle1__RenderFunc(props: {
                   )}
                   component={Link}
                   href={
-                    "https://challenge.zendrop.com/30day?utm_medium=cpc&utm_source=meta&utm_campaign=dg0001" as const
+                    "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
                   }
                   platform={"nextjs"}
                   target={"_blank" as const}
@@ -770,7 +770,7 @@ function PlasmicArticle1__RenderFunc(props: {
                               )}
                               component={Link}
                               href={
-                                "https://challenge.zendrop.com/30day?utm_medium=cpc&utm_source=meta&utm_campaign=dg0001" as const
+                                "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
                               }
                               platform={"nextjs"}
                             >
@@ -974,7 +974,7 @@ function PlasmicArticle1__RenderFunc(props: {
                               )}
                               component={Link}
                               href={
-                                "https://challenge.zendrop.com/30day?utm_medium=cpc&utm_source=meta&utm_campaign=dg0001" as const
+                                "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
                               }
                               platform={"nextjs"}
                             >
@@ -997,7 +997,7 @@ function PlasmicArticle1__RenderFunc(props: {
                               )}
                               component={Link}
                               href={
-                                "https://challenge.zendrop.com/30day?utm_medium=cpc&utm_source=meta&utm_campaign=dg0001" as const
+                                "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
                               }
                               platform={"nextjs"}
                             >
@@ -1441,10 +1441,243 @@ function PlasmicArticle1__RenderFunc(props: {
                           sty.paragraph7
                         )}
                       >
-                        {
-                          "Long story short, I cashed out my Shopify stores, and now I am giving away my US suppliers to help you succeed too. \n\nYou can access the products and a ton of free training by signing up below. "
-                        }
+                        <React.Fragment>
+                          <React.Fragment>
+                            {
+                              "Long story short, I cashed out my Shopify stores, and now I am giving away everything to help you succeed too. \n \nI packaged up all the goods inside "
+                            }
+                          </React.Fragment>
+                          {
+                            <p.PlasmicLink
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link___9CWlp
+                              )}
+                              component={Link}
+                              href={
+                                "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
+                              }
+                              platform={"nextjs"}
+                            >
+                              {"Zendrop"}
+                            </p.PlasmicLink>
+                          }
+                          <React.Fragment>
+                            {
+                              ", Shopify's top dropshipping app.\n \nThis is literally everything you need to succeed...\n \nFor free... \n \nSeriously, I'll even pay product costs to fulfill your first $300-400 in Shopify store orders. \n \nI built this app to help you succeed. \n \nAll financial barriers have been removed. \n \nYou can commit to changing your reality right now. \n \n"
+                            }
+                          </React.Fragment>
+                          {
+                            <p.PlasmicLink
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link__rxItF
+                              )}
+                              component={Link}
+                              href={
+                                "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
+                              }
+                              platform={"nextjs"}
+                            >
+                              {"Zendrop Plus"}
+                            </p.PlasmicLink>
+                          }
+                          <React.Fragment>
+                            {
+                              " is free for 30-days, and Shopify gives out some crazy long trials these days. \n \nJust take the first step right now by unlocking "
+                            }
+                          </React.Fragment>
+                          {
+                            <p.PlasmicLink
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link__bdwPi
+                              )}
+                              component={Link}
+                              href={
+                                "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
+                              }
+                              platform={"nextjs"}
+                            >
+                              {"Zendrop Plus"}
+                            </p.PlasmicLink>
+                          }
+                          <React.Fragment>
+                            {
+                              ". \n \nDive into the Zendrop Academy materials. \n \nFocus your mind on success. \n \nAnd secure just one small win every day that advances you toward that all so gratify first sale \ud83e\udd11\n \nJust to summarize, I am giving you all of this value for free: \n\n\u2705  "
+                            }
+                          </React.Fragment>
+                          <span
+                            className={
+                              "plasmic_default__all plasmic_default__span"
+                            }
+                            style={{ fontWeight: 700 }}
+                          >
+                            {"The Ultimate Dropshipping Toolkit: "}
+                          </span>
+                          <React.Fragment>
+                            {
+                              " Zendrop is the #1 high margin dropshipping app for accelerated growth.\n \n\u2705  "
+                            }
+                          </React.Fragment>
+                          <span
+                            className={
+                              "plasmic_default__all plasmic_default__span"
+                            }
+                            style={{ fontWeight: 700 }}
+                          >
+                            {"Zendrop Academy: "}
+                          </span>
+                          <React.Fragment>
+                            {
+                              " Advanced TikTok & Facebook Ads training to generate profitable traffic for any store. \n\n\u2705 "
+                            }
+                          </React.Fragment>
+                          <span
+                            className={
+                              "plasmic_default__all plasmic_default__span"
+                            }
+                            style={{ fontWeight: 700 }}
+                          >
+                            {"$100 in Free Product Fulfillment Credits:"}
+                          </span>
+                          <React.Fragment>
+                            {
+                              " That will cover around $300-400 worth of orders through your store. \n\n\u2705 "
+                            }
+                          </React.Fragment>
+                          <span
+                            className={
+                              "plasmic_default__all plasmic_default__span"
+                            }
+                            style={{ fontWeight: 700 }}
+                          >
+                            {"Zendrop Community:"}
+                          </span>
+                          <React.Fragment>
+                            {
+                              " On Discord as the perfect place to network and learn from some of the top dropshippers on the planet. \n\n\u2705 "
+                            }
+                          </React.Fragment>
+                          <span
+                            className={
+                              "plasmic_default__all plasmic_default__span"
+                            }
+                            style={{ fontWeight: 700 }}
+                          >
+                            {"Trending Products Finder:"}
+                          </span>
+                          <React.Fragment>
+                            {
+                              " The hottest trending products updated weekly to add to your store for more sales.\n\n\u2705 "
+                            }
+                          </React.Fragment>
+                          <span
+                            className={
+                              "plasmic_default__all plasmic_default__span"
+                            }
+                            style={{ fontWeight: 700 }}
+                          >
+                            {"Custom Branding: "}
+                          </span>
+                          <React.Fragment>
+                            {
+                              "Add a custom branded thank you card to every package sent to your customers to elevate your brand.\n\n\u2705 "
+                            }
+                          </React.Fragment>
+                          <span
+                            className={
+                              "plasmic_default__all plasmic_default__span"
+                            }
+                            style={{ fontWeight: 700 }}
+                          >
+                            {"Product Sourcing and Fulfillment:"}
+                          </span>
+                          <React.Fragment>
+                            {
+                              " We take care of all the details to source great products and ship your orders out.\n\n\u2705 "
+                            }
+                          </React.Fragment>
+                          <span
+                            className={
+                              "plasmic_default__all plasmic_default__span"
+                            }
+                            style={{ fontWeight: 700 }}
+                          >
+                            {"Product Bundles & Subscription Boxes:"}
+                          </span>
+                          <React.Fragment>
+                            {
+                              " Easily bundle items together for upsell opportunities and offer subscription boxes for recurring revenue.\n \n"
+                            }
+                          </React.Fragment>
+                          <span
+                            className={
+                              "plasmic_default__all plasmic_default__span"
+                            }
+                            style={{ fontWeight: 700, color: "#8173E5" }}
+                          >
+                            {
+                              "The ads training alone is well worth over $2,997..."
+                            }
+                          </span>
+                          <React.Fragment>
+                            {
+                              "\n \nBut everything's free for you by taking action today. \n\nClick through to the next page and signup for "
+                            }
+                          </React.Fragment>
+                          {
+                            <p.PlasmicLink
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link__fAhM3
+                              )}
+                              component={Link}
+                              href={
+                                "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
+                              }
+                              platform={"nextjs"}
+                            >
+                              {"Zendrop Plus"}
+                            </p.PlasmicLink>
+                          }
+                          <React.Fragment>
+                            {
+                              " if you are serious about changing your reality with dropshipping. \n\nOnce you signup, the game begins. \n\nYou have 30-days to get your first sales. \n\nAchieve this milestone and you won't even pay a dollar out of pocket for startup costs.\n\nI believe in you! "
+                            }
+                          </React.Fragment>
+                        </React.Fragment>
                       </div>
+                      <p.PlasmicImg
+                        alt={""}
+                        className={classNames(sty.img__mK9S)}
+                        displayHeight={"auto" as const}
+                        displayMaxHeight={"none" as const}
+                        displayMaxWidth={"100%" as const}
+                        displayMinHeight={"0" as const}
+                        displayMinWidth={"0" as const}
+                        displayWidth={"200px" as const}
+                        loading={"lazy" as const}
+                        src={{
+                          src: "/plasmic/zendrop/images/jaredSignaturesvg.svg",
+                          fullWidth: 274,
+                          fullHeight: 150,
+                          aspectRatio: 1.827068
+                        }}
+                      />
+
                       {true ? (
                         <div
                           data-plasmic-name={"h27"}
@@ -1492,11 +1725,13 @@ function PlasmicArticle1__RenderFunc(props: {
                         )}
                         component={Link}
                         href={
-                          "https://challenge.zendrop.com/30day?utm_medium=cpc&utm_source=meta&utm_campaign=dg0001" as const
+                          "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
                         }
                         platform={"nextjs"}
                       >
-                        {"Click Here To Learn More & Join The Challenge Today!"}
+                        {
+                          "Click Here To Unlock the Ultimate Dropshipping Toolkit"
+                        }
                       </p.PlasmicLink>
                       <div
                         className={classNames(
@@ -1514,7 +1749,7 @@ function PlasmicArticle1__RenderFunc(props: {
                           )}
                           component={Link}
                           href={
-                            "https://challenge.zendrop.com/30day?utm_medium=cpc&utm_source=meta&utm_campaign=dg0001" as const
+                            "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
                           }
                           onClick={async event => {
                             const $steps = {};
@@ -1564,7 +1799,7 @@ function PlasmicArticle1__RenderFunc(props: {
                           platform={"nextjs"}
                         >
                           {p.renderPlasmicSlot({
-                            defaultContents: "ACCEPT CHALLENGE \ud83d\udc49",
+                            defaultContents: "GET ZENDROP APP \ud83d\udc49",
                             value: args.slot7,
                             className: classNames(sty.slotTargetSlot7)
                           })}
@@ -1591,7 +1826,7 @@ function PlasmicArticle1__RenderFunc(props: {
                               sty.aOutroH2
                             )}
                           >
-                            {"Join The Dropship With AI Challenge"}
+                            {"Free Dropshipping Toolkit "}
                           </div>
                           <p.PlasmicImg
                             data-plasmic-name={"reviewIcon"}
@@ -1634,7 +1869,7 @@ function PlasmicArticle1__RenderFunc(props: {
                                 }
                                 style={{ fontWeight: 700 }}
                               >
-                                {"100,000+"}
+                                {"107,374+"}
                               </span>
                               <React.Fragment>
                                 {" Successful Zendrop Merchants"}
@@ -1971,16 +2206,33 @@ function PlasmicArticle1__RenderFunc(props: {
                             sty.reviewStatement
                           )}
                         >
-                          <React.Fragment>
-                            <span
-                              className={
-                                "plasmic_default__all plasmic_default__span"
-                              }
-                              style={{ fontWeight: 700 }}
-                            >
-                              {"Dropship With AI Challenge \ud83e\udd16"}
-                            </span>
-                          </React.Fragment>
+                          {hasVariant(
+                            globalVariants,
+                            "screen",
+                            "mobileOnly"
+                          ) ? (
+                            <React.Fragment>
+                              <span
+                                className={
+                                  "plasmic_default__all plasmic_default__span"
+                                }
+                                style={{ fontWeight: 700 }}
+                              >
+                                {"The Ultimate Dropshipping Toolkit"}
+                              </span>
+                            </React.Fragment>
+                          ) : (
+                            <React.Fragment>
+                              <span
+                                className={
+                                  "plasmic_default__all plasmic_default__span"
+                                }
+                                style={{ fontWeight: 700 }}
+                              >
+                                {"The Ultimate Dropshipping Toolkit"}
+                              </span>
+                            </React.Fragment>
+                          )}
                         </div>
                         <div
                           data-plasmic-name={"ctaCardH1"}
@@ -2016,7 +2268,7 @@ function PlasmicArticle1__RenderFunc(props: {
                           )}
                           component={Link}
                           href={
-                            "https://challenge.zendrop.com/30day?utm_medium=cpc&utm_source=meta&utm_campaign=dg0001" as const
+                            "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
                           }
                           onClick={async event => {
                             const $steps = {};
@@ -2066,7 +2318,7 @@ function PlasmicArticle1__RenderFunc(props: {
                           platform={"nextjs"}
                         >
                           {p.renderPlasmicSlot({
-                            defaultContents: "ACCEPT CHALLENGE \ud83d\udc49",
+                            defaultContents: "GET ZENDROP APP \ud83d\udc49",
                             value: args.slot9,
                             className: classNames(sty.slotTargetSlot9)
                           })}

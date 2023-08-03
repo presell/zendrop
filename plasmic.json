@@ -1506,6 +1506,11 @@
           "id": "yi7RS3OZK",
           "name": "pexels-victoria-ouarets-5288699.jpg",
           "filePath": "../public/plasmic/zendrop/images/pexelsVictoriaOuarets5288699Jpg.jpg"
+        },
+        {
+          "id": "3w6-dRuJh",
+          "name": "Jared Signature.svg",
+          "filePath": "../public/plasmic/zendrop/images/jaredSignaturesvg.svg"
         }
       ],
       "indirect": false,
@@ -1540,6 +1545,6 @@
   "nextjsConfig": {
     "pagesDir": "../pages"
   },
-  "cliVersion": "0.1.302",
-  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.302/dist/plasmic.schema.json"
+  "cliVersion": "0.1.303",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.303/dist/plasmic.schema.json"
 }

@@ -1441,9 +1441,26 @@ function PlasmicHome__RenderFunc(props: {
                           sty.paragraph7
                         )}
                       >
-                        {
-                          "Long story short, I cashed out my Shopify stores, and now I am giving away my US suppliers to help you succeed too. \n\nYou can access the products and a ton of free training by signing up below. "
-                        }
+                        <React.Fragment>
+                          <React.Fragment>
+                            {
+                              "Long story short, I cashed out my Shopify stores, and now I am giving away "
+                            }
+                          </React.Fragment>
+                          <span
+                            className={
+                              "plasmic_default__all plasmic_default__span"
+                            }
+                            style={{ fontWeight: 700 }}
+                          >
+                            {"everything"}
+                          </span>
+                          <React.Fragment>
+                            {
+                              " to help you succeed too. \n\nYou can access the products and a ton of free training by signing up below. "
+                            }
+                          </React.Fragment>
+                        </React.Fragment>
                       </div>
                       {true ? (
                         <div

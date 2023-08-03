@@ -1050,6 +1050,20 @@
   margin-bottom: 30px;
   min-width: 0;
 }
+.img__mK9S {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 200px;
+  align-self: flex-start;
+  margin-bottom: 29px;
+}
+.img__mK9S > picture > img {
+  object-fit: cover;
+}
+.img__mK9S > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
 .h27 {
   position: relative;
   width: 100%;
@@ -1094,6 +1108,7 @@
   margin-bottom: 30px;
   font-weight: 700;
   text-align: center;
+  padding-bottom: 0px;
   min-width: 0;
 }
 .freeBox__bNwar {
