@@ -418,9 +418,7 @@ function PlasmicHome__RenderFunc(props: {
                     sty.link__u5JNg
                   )}
                   component={Link}
-                  href={
-                    "https://challenge.zendrop.com/30day?utm_medium=cpc&utm_source=meta&utm_campaign=dg0001" as const
-                  }
+                  href={"https://zendrop.com/checkout-trial-fb/" as const}
                   platform={"nextjs"}
                   target={"_blank" as const}
                 >

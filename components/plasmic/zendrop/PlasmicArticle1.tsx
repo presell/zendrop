@@ -418,9 +418,7 @@ function PlasmicArticle1__RenderFunc(props: {
                     sty.link__ve90P
                   )}
                   component={Link}
-                  href={
-                    "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
-                  }
+                  href={"https://zendrop.com/checkout-trial-fb/" as const}
                   platform={"nextjs"}
                   target={"_blank" as const}
                 >
@@ -770,7 +768,7 @@ function PlasmicArticle1__RenderFunc(props: {
                               )}
                               component={Link}
                               href={
-                                "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
+                                "https://zendrop.com/checkout-trial-fb/" as const
                               }
                               platform={"nextjs"}
                             >
@@ -974,7 +972,7 @@ function PlasmicArticle1__RenderFunc(props: {
                               )}
                               component={Link}
                               href={
-                                "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
+                                "https://zendrop.com/checkout-trial-fb/" as const
                               }
                               platform={"nextjs"}
                             >
@@ -997,7 +995,7 @@ function PlasmicArticle1__RenderFunc(props: {
                               )}
                               component={Link}
                               href={
-                                "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
+                                "https://zendrop.com/checkout-trial-fb/" as const
                               }
                               platform={"nextjs"}
                             >
@@ -1473,7 +1471,7 @@ function PlasmicArticle1__RenderFunc(props: {
                               )}
                               component={Link}
                               href={
-                                "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
+                                "https://zendrop.com/checkout-trial-fb/" as const
                               }
                               platform={"nextjs"}
                             >
@@ -1496,7 +1494,7 @@ function PlasmicArticle1__RenderFunc(props: {
                               )}
                               component={Link}
                               href={
-                                "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
+                                "https://zendrop.com/checkout-trial-fb/" as const
                               }
                               platform={"nextjs"}
                             >
@@ -1519,7 +1517,7 @@ function PlasmicArticle1__RenderFunc(props: {
                               )}
                               component={Link}
                               href={
-                                "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
+                                "https://zendrop.com/checkout-trial-fb/" as const
                               }
                               platform={"nextjs"}
                             >
@@ -1661,7 +1659,7 @@ function PlasmicArticle1__RenderFunc(props: {
                               )}
                               component={Link}
                               href={
-                                "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
+                                "https://zendrop.com/checkout-trial-fb/" as const
                               }
                               platform={"nextjs"}
                             >
@@ -1739,9 +1737,7 @@ function PlasmicArticle1__RenderFunc(props: {
                           sty.aOutroH1
                         )}
                         component={Link}
-                        href={
-                          "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
-                        }
+                        href={"https://zendrop.com/checkout-trial-fb/" as const}
                         platform={"nextjs"}
                       >
                         {
@@ -1764,7 +1760,7 @@ function PlasmicArticle1__RenderFunc(props: {
                           )}
                           component={Link}
                           href={
-                            "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
+                            "https://zendrop.com/checkout-trial-fb/" as const
                           }
                           onClick={async event => {
                             const $steps = {};
@@ -2283,7 +2279,7 @@ function PlasmicArticle1__RenderFunc(props: {
                           )}
                           component={Link}
                           href={
-                            "https://zendrop.com/checkout-trial-1/?utm_medium=cpc&utm_source=fb&utm_campaign=dg0001" as const
+                            "https://zendrop.com/checkout-trial-fb/" as const
                           }
                           onClick={async event => {
                             const $steps = {};
