@@ -2416,7 +2416,7 @@ function PlasmicArticle2__RenderFunc(props: {
                         platform={"nextjs"}
                       >
                         {
-                          "Click Here To Claim $11,304 In Dropshipping Resources"
+                          "Click Here To Claim $11,504 In Dropshipping Resources"
                         }
                       </p.PlasmicLink>
                       <div
