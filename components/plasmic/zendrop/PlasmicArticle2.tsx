@@ -838,12 +838,48 @@ function PlasmicArticle2__RenderFunc(props: {
                               }
                               platform={"nextjs"}
                             >
+                              {"Zendrop \ud83d\udc4b"}
+                            </p.PlasmicLink>
+                          }
+                          <React.Fragment>
+                            {
+                              "\n\nLong story short, I cashed out my Shopify stores, and now "
+                            }
+                          </React.Fragment>
+                          <span
+                            className={
+                              "plasmic_default__all plasmic_default__span"
+                            }
+                            style={{ fontWeight: 700 }}
+                          >
+                            {"I am giving away everything"}
+                          </span>
+                          <React.Fragment>
+                            {
+                              " to help you succeed too. \n \nI packaged up all the goods inside "
+                            }
+                          </React.Fragment>
+                          {
+                            <p.PlasmicLink
+                              className={classNames(
+                                projectcss.all,
+                                projectcss.a,
+                                projectcss.__wab_text,
+                                projectcss.plasmic_default__inline,
+                                sty.link___6E7FB
+                              )}
+                              component={Link}
+                              href={
+                                "https://zendrop.com/checkout-plus-fb/" as const
+                              }
+                              platform={"nextjs"}
+                            >
                               {"Zendrop"}
                             </p.PlasmicLink>
                           }
                           <React.Fragment>
                             {
-                              ", and I'm about to reveal the life-altering secret that transformed me from a struggling entrepreneur to a Lambo-driving success story. \n\nNow, before I dive into the details, let me assure you that what I'm about to share isn't your typical get-rich-quick scheme. \n\nNo, it's far more powerful and sustainable... \n\nSo, buckle up and get ready to embark on a journey that has the potential to reshape your destiny, just as it did mine. \n\nBecause, my friend, with this roadmap, the sky's the limit, and the possibilities are endless. \n\nWelcome to a New World of boundless potential and endless fulfillment. \n\nWelcome to your New Life."
+                              ", Shopify's top dropshipping app.\n \nThis is literally everything you need to succeed...\n \nFor free... \n \nSeriously, I'll even pay product costs to fulfill your first $300-400 in Shopify store orders. "
                             }
                           </React.Fragment>
                         </React.Fragment>
