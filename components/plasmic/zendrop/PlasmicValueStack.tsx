@@ -474,7 +474,7 @@ function PlasmicValueStack__RenderFunc(props: {
                         sty.link__wfWux
                       )}
                       component={Link}
-                      href={"https://zendrop.com/checkout-trial-fb/" as const}
+                      href={"https://zendrop.com/checkout-plus-fb/" as const}
                       platform={"nextjs"}
                     >
                       {p.renderPlasmicSlot({
