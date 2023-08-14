@@ -1698,7 +1698,7 @@ function PlasmicArticle2__RenderFunc(props: {
                         slot3={
                           "Zendrop Is the #1 High Margin Dropshipping App on Shopify."
                         }
-                        slot4={"Price: $79"}
+                        slot4={"Price: $948"}
                         slot5={
                           <div
                             className={classNames(
@@ -2256,7 +2256,7 @@ function PlasmicArticle2__RenderFunc(props: {
                           </span>
                           <React.Fragment>
                             {
-                              "\n\nIf you are serious about changing your reality with dropshipping, then click through to the next page and signup for a free "
+                              "\n\nIf you are serious about changing your reality with dropshipping, then click through to the next page and signup for a year of "
                             }
                           </React.Fragment>
                           {
@@ -2279,7 +2279,7 @@ function PlasmicArticle2__RenderFunc(props: {
                           }
                           <React.Fragment>
                             {
-                              " trial. \n\nOnce you signup, the game begins. \n\nYou have 30-days to get your first sales. \n\nAchieve this milestone and you won't even pay a dollar out of pocket for startup costs.\n\nI believe in you! "
+                              " for $197 (normally $79/month, this alone is worth $948...). \n\nOnce you signup, the game begins. \n\nYour first $500 in sale is near. \n\nAchieve this milestone and you won't even pay a dollar out of pocket for Zendrop Plus.\n\nI believe in you! "
                             }
                           </React.Fragment>
                         </React.Fragment>
