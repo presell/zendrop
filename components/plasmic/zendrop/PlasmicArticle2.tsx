@@ -485,7 +485,7 @@ function PlasmicArticle2__RenderFunc(props: {
               )}
             >
               {hasVariant(globalVariants, "screen", "mobileOnly")
-                ? "Almost broke to Lambo \nin 3 months... \n[My Story]"
+                ? '"The Ultimate Dropshipping Success Kit"'
                 : '"The Ultimate Dropshipping Success Kit"'}
             </div>
             <div
@@ -498,7 +498,7 @@ function PlasmicArticle2__RenderFunc(props: {
               )}
             >
               {hasVariant(globalVariants, "screen", "mobileOnly")
-                ? "And how you can replicate my success..."
+                ? "Free AliExpress Order Fulfillment Credits Included"
                 : "Free AliExpress Order Fulfillment Credits Included"}
             </div>
             <div
@@ -511,8 +511,8 @@ function PlasmicArticle2__RenderFunc(props: {
               )}
             >
               {hasVariant(globalVariants, "screen", "mobileOnly")
-                ? "And how you can replicate my success..."
-                : "(yes, we'll fulfill your first ~$500 in Shopify sales absolutely free...)"}
+                ? "(yes, we'll fulfill your first ~$700 in Shopify sales absolutely free...)"
+                : "(yes, we'll fulfill your first ~$700 in Shopify sales absolutely free...)"}
             </div>
             <div
               data-plasmic-name={"heroSubHeadline3"}
@@ -524,7 +524,7 @@ function PlasmicArticle2__RenderFunc(props: {
               )}
             >
               {hasVariant(globalVariants, "screen", "mobileOnly")
-                ? "And how you can replicate my success..."
+                ? "(we call that PURE PROFIT)"
                 : "(we call that PURE PROFIT)"}
             </div>
             {true ? (
@@ -1713,8 +1713,43 @@ function PlasmicArticle2__RenderFunc(props: {
                         slot6={
                           "Zendrop Is the #1 High Margin Dropshipping App on Shopify."
                         }
-                      />
-
+                      >
+                        <div
+                          className={classNames(
+                            projectcss.all,
+                            projectcss.__wab_text,
+                            sty.text___7R4Tt
+                          )}
+                        >
+                          {hasVariant(
+                            globalVariants,
+                            "screen",
+                            "mobileOnly"
+                          ) ? (
+                            <React.Fragment>
+                              <span
+                                className={
+                                  "plasmic_default__all plasmic_default__span"
+                                }
+                                style={{ color: "#636363" }}
+                              >
+                                {"365-Day Zendrop PLUS App Deal:"}
+                              </span>
+                            </React.Fragment>
+                          ) : (
+                            <React.Fragment>
+                              <span
+                                className={
+                                  "plasmic_default__all plasmic_default__span"
+                                }
+                                style={{ color: "#636363" }}
+                              >
+                                {"30-Day Zendrop PLUS App Free Trial:"}
+                              </span>
+                            </React.Fragment>
+                          )}
+                        </div>
+                      </ValueStack>
                       <ValueStack
                         children2={
                           <div
@@ -1731,7 +1766,7 @@ function PlasmicArticle2__RenderFunc(props: {
                                 }
                                 style={{ color: "#636363" }}
                               >
-                                {"$100 In Order"}
+                                {"$197 In Order"}
                               </span>
                               <React.Fragment>{"\n"}</React.Fragment>
                               <span
@@ -1749,7 +1784,11 @@ function PlasmicArticle2__RenderFunc(props: {
                           "__wab_instance",
                           sty.valueStack__gzr7G
                         )}
-                        slot={"Price: ~$500"}
+                        slot={
+                          hasVariant(globalVariants, "screen", "mobileOnly")
+                            ? "Price: ~$700"
+                            : "Price: ~$500"
+                        }
                         slot2={
                           <div
                             className={classNames(
@@ -1764,7 +1803,7 @@ function PlasmicArticle2__RenderFunc(props: {
                         slot3={
                           "This Will Cover Your First $300-$500 in Sales. That's PURE PROFIT."
                         }
-                        slot4={"Price: ~$500"}
+                        slot4={"Price: ~$700"}
                         slot5={
                           <div
                             className={classNames(
@@ -1777,7 +1816,7 @@ function PlasmicArticle2__RenderFunc(props: {
                           </div>
                         }
                         slot6={
-                          "This Will Cover Your First $300-$500 in Sales. That's PURE PROFIT."
+                          "This Will Cover Your First $600-$700 in Sales. That's PURE PROFIT."
                         }
                       >
                         <div
@@ -1787,16 +1826,33 @@ function PlasmicArticle2__RenderFunc(props: {
                             sty.text___2UjoA
                           )}
                         >
-                          <React.Fragment>
-                            <span
-                              className={
-                                "plasmic_default__all plasmic_default__span"
-                              }
-                              style={{ color: "#636363" }}
-                            >
-                              {"$100 In Order Fulfillment Credits"}
-                            </span>
-                          </React.Fragment>
+                          {hasVariant(
+                            globalVariants,
+                            "screen",
+                            "mobileOnly"
+                          ) ? (
+                            <React.Fragment>
+                              <span
+                                className={
+                                  "plasmic_default__all plasmic_default__span"
+                                }
+                                style={{ color: "#636363" }}
+                              >
+                                {"$197 In Order Fulfillment Credits"}
+                              </span>
+                            </React.Fragment>
+                          ) : (
+                            <React.Fragment>
+                              <span
+                                className={
+                                  "plasmic_default__all plasmic_default__span"
+                                }
+                                style={{ color: "#636363" }}
+                              >
+                                {"$100 In Order Fulfillment Credits"}
+                              </span>
+                            </React.Fragment>
+                          )}
                         </div>
                       </ValueStack>
                       <ValueStack
@@ -2222,12 +2278,18 @@ function PlasmicArticle2__RenderFunc(props: {
                           "__wab_instance",
                           sty.valueStack3
                         )}
-                        slot22={"$11,304"}
+                        slot22={"$11,504"}
                         slot25={"$197"}
+                        slot4={"Price: ~$700"}
                         slot49={
                           hasVariant(globalVariants, "screen", "mobileOnly")
-                            ? "$11,304"
+                            ? "$11,504"
                             : "$11,334"
+                        }
+                        slot58={
+                          hasVariant(globalVariants, "screen", "mobileOnly")
+                            ? "Price: $700"
+                            : "Price: $500"
                         }
                         slot61={
                           hasVariant(globalVariants, "screen", "mobileOnly")
