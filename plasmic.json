@@ -502,6 +502,97 @@
           "cssFilePath": "plasmic/zendrop/PlasmicHome.module.css",
           "scheme": "blackbox",
           "componentType": "page"
+        },
+        {
+          "id": "VJFcF81x8F",
+          "name": "ValueStack",
+          "type": "managed",
+          "projectId": "4UKWsAMfUC1kEuLgBvknC",
+          "renderModuleFilePath": "plasmic/zendrop/PlasmicValueStack.tsx",
+          "importSpec": {
+            "modulePath": "ValueStack.tsx"
+          },
+          "cssFilePath": "plasmic/zendrop/PlasmicValueStack.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "vSo40ok56JX",
+          "name": "ValueStack2",
+          "type": "managed",
+          "projectId": "4UKWsAMfUC1kEuLgBvknC",
+          "renderModuleFilePath": "plasmic/zendrop/PlasmicValueStack2.tsx",
+          "importSpec": {
+            "modulePath": "ValueStack2.tsx"
+          },
+          "cssFilePath": "plasmic/zendrop/PlasmicValueStack2.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "n61_wHDUo9H",
+          "name": "ValueStack3",
+          "type": "managed",
+          "projectId": "4UKWsAMfUC1kEuLgBvknC",
+          "renderModuleFilePath": "plasmic/zendrop/PlasmicValueStack3.tsx",
+          "importSpec": {
+            "modulePath": "ValueStack3.tsx"
+          },
+          "cssFilePath": "plasmic/zendrop/PlasmicValueStack3.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "yQAII8_kvyW",
+          "name": "ValueStack4",
+          "type": "managed",
+          "projectId": "4UKWsAMfUC1kEuLgBvknC",
+          "renderModuleFilePath": "plasmic/zendrop/PlasmicValueStack4.tsx",
+          "importSpec": {
+            "modulePath": "ValueStack4.tsx"
+          },
+          "cssFilePath": "plasmic/zendrop/PlasmicValueStack4.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "rovLLY09uVi",
+          "name": "ValueStack5",
+          "type": "managed",
+          "projectId": "4UKWsAMfUC1kEuLgBvknC",
+          "renderModuleFilePath": "plasmic/zendrop/PlasmicValueStack5.tsx",
+          "importSpec": {
+            "modulePath": "ValueStack5.tsx"
+          },
+          "cssFilePath": "plasmic/zendrop/PlasmicValueStack5.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "prdxlTxeScmk",
+          "name": "Article1Plus",
+          "type": "managed",
+          "projectId": "4UKWsAMfUC1kEuLgBvknC",
+          "renderModuleFilePath": "plasmic/zendrop/PlasmicArticle1Plus.tsx",
+          "importSpec": {
+            "modulePath": "../pages/article/lambo-plus.tsx"
+          },
+          "cssFilePath": "plasmic/zendrop/PlasmicArticle1Plus.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "DaqIGKC_QsCu",
+          "name": "Article2",
+          "type": "managed",
+          "projectId": "4UKWsAMfUC1kEuLgBvknC",
+          "renderModuleFilePath": "plasmic/zendrop/PlasmicArticle2.tsx",
+          "importSpec": {
+            "modulePath": "../pages/article/zendrop.tsx"
+          },
+          "cssFilePath": "plasmic/zendrop/PlasmicArticle2.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
         }
       ],
       "icons": [
@@ -559,6 +650,16 @@
           "id": "LQGNpKNZwrnG",
           "name": "SquareMinussvgIcon",
           "moduleFilePath": "plasmic/zendrop/icons/PlasmicIcon__SquareMinussvg.tsx"
+        },
+        {
+          "id": "EheXyYORhz",
+          "name": "CheckZendropsvgIcon",
+          "moduleFilePath": "plasmic/zendrop/icons/PlasmicIcon__CheckZendropsvg.tsx"
+        },
+        {
+          "id": "Z1XaO7Pdtv",
+          "name": "DownloadsvgIcon",
+          "moduleFilePath": "plasmic/zendrop/icons/PlasmicIcon__Downloadsvg.tsx"
         }
       ],
       "images": [
@@ -1511,6 +1612,36 @@
           "id": "3w6-dRuJh",
           "name": "Jared Signature.svg",
           "filePath": "../public/plasmic/zendrop/images/jaredSignaturesvg.svg"
+        },
+        {
+          "id": "j8EfFVV7A",
+          "name": "tim burd.jpeg",
+          "filePath": "../public/plasmic/zendrop/images/timBurdjpeg.jpg"
+        },
+        {
+          "id": "AIWp1BwJP",
+          "name": "Tim Burd Talk.png",
+          "filePath": "../public/plasmic/zendrop/images/timBurdTalkpng.png"
+        },
+        {
+          "id": "xAfOIqNIZ",
+          "name": "Justin Wool.png",
+          "filePath": "../public/plasmic/zendrop/images/justinWoolpng.png"
+        },
+        {
+          "id": "IVg80LiBk",
+          "name": "academy (600 × 450 px) (800 × 450 px) (6).png",
+          "filePath": "../public/plasmic/zendrop/images/academy600450Px800450Px6Png.png"
+        },
+        {
+          "id": "tNAnE4mpLD",
+          "name": "Check Zendrop.svg 2",
+          "filePath": "../public/plasmic/zendrop/images/checkZendropsvg2.svg"
+        },
+        {
+          "id": "0wbuptr_aK",
+          "name": "download.svg 2",
+          "filePath": "../public/plasmic/zendrop/images/downloadsvg2.svg"
         }
       ],
       "indirect": false,
@@ -1545,6 +1676,6 @@
   "nextjsConfig": {
     "pagesDir": "../pages"
   },
-  "cliVersion": "0.1.303",
-  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.303/dist/plasmic.schema.json"
+  "cliVersion": "0.1.304",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.304/dist/plasmic.schema.json"
 }
