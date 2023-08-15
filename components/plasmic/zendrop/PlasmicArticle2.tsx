@@ -498,8 +498,8 @@ function PlasmicArticle2__RenderFunc(props: {
               )}
             >
               {hasVariant(globalVariants, "screen", "mobileOnly")
-                ? "Free AliExpress Order Fulfillment Credits Included"
-                : "Free AliExpress Order Fulfillment Credits Included"}
+                ? "$197 Free Fulfillment Credits Included"
+                : "$197 Free Fulfillment Credits Included"}
             </div>
             <div
               data-plasmic-name={"heroSubHeadline2"}
