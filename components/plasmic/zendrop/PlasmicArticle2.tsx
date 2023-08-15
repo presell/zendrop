@@ -819,70 +819,161 @@ function PlasmicArticle2__RenderFunc(props: {
                           sty.paragraph2
                         )}
                       >
-                        <React.Fragment>
+                        {hasVariant(globalVariants, "screen", "mobileOnly") ? (
                           <React.Fragment>
-                            {"Hey there, it's Jared, Founder of "}
-                          </React.Fragment>
-                          {
-                            <p.PlasmicLink
-                              className={classNames(
-                                projectcss.all,
-                                projectcss.a,
-                                projectcss.__wab_text,
-                                projectcss.plasmic_default__inline,
-                                sty.link__b1E9T
-                              )}
-                              component={Link}
-                              href={
-                                "https://zendrop.com/checkout-plus-fb/" as const
+                            <React.Fragment>
+                              {"Hey there, it's Jared, Founder of "}
+                            </React.Fragment>
+                            {
+                              <p.PlasmicLink
+                                className={classNames(
+                                  projectcss.all,
+                                  projectcss.a,
+                                  projectcss.__wab_text,
+                                  projectcss.plasmic_default__inline,
+                                  sty.link__b1E9T
+                                )}
+                                component={Link}
+                                href={
+                                  "https://zendrop.com/checkout-plus-fb/" as const
+                                }
+                                platform={"nextjs"}
+                              >
+                                {hasVariant(
+                                  globalVariants,
+                                  "screen",
+                                  "mobileOnly"
+                                )
+                                  ? "Zendrop \ud83d\udc4b"
+                                  : "Zendrop \ud83d\udc4b"}
+                              </p.PlasmicLink>
+                            }
+                            <React.Fragment>
+                              {
+                                "\n\nLong story short, I cashed out my Shopify stores, and now "
                               }
-                              platform={"nextjs"}
-                            >
-                              {"Zendrop \ud83d\udc4b"}
-                            </p.PlasmicLink>
-                          }
-                          <React.Fragment>
-                            {
-                              "\n\nLong story short, I cashed out my Shopify stores, and now "
-                            }
-                          </React.Fragment>
-                          <span
-                            className={
-                              "plasmic_default__all plasmic_default__span"
-                            }
-                            style={{ fontWeight: 700 }}
-                          >
-                            {"I am giving away everything"}
-                          </span>
-                          <React.Fragment>
-                            {
-                              " to help you succeed too. \n \nI packaged up all the goods inside "
-                            }
-                          </React.Fragment>
-                          {
-                            <p.PlasmicLink
-                              className={classNames(
-                                projectcss.all,
-                                projectcss.a,
-                                projectcss.__wab_text,
-                                projectcss.plasmic_default__inline,
-                                sty.link___6E7FB
-                              )}
-                              component={Link}
-                              href={
-                                "https://zendrop.com/checkout-plus-fb/" as const
+                            </React.Fragment>
+                            <span
+                              className={
+                                "plasmic_default__all plasmic_default__span"
                               }
-                              platform={"nextjs"}
+                              style={{ fontWeight: 700 }}
                             >
-                              {"Zendrop"}
-                            </p.PlasmicLink>
-                          }
-                          <React.Fragment>
+                              {"I am giving away everything"}
+                            </span>
+                            <React.Fragment>
+                              {
+                                " to help you succeed too. \n \nI packaged up all the goods inside "
+                              }
+                            </React.Fragment>
                             {
-                              ", Shopify's top dropshipping app.\n \nThis is literally everything you need to succeed...\n \nFor free... \n \nSeriously, I'll even pay product costs to fulfill your first $300-400 in Shopify store orders. "
+                              <p.PlasmicLink
+                                className={classNames(
+                                  projectcss.all,
+                                  projectcss.a,
+                                  projectcss.__wab_text,
+                                  projectcss.plasmic_default__inline,
+                                  sty.link___6E7FB
+                                )}
+                                component={Link}
+                                href={
+                                  "https://zendrop.com/checkout-plus-fb/" as const
+                                }
+                                platform={"nextjs"}
+                              >
+                                {hasVariant(
+                                  globalVariants,
+                                  "screen",
+                                  "mobileOnly"
+                                )
+                                  ? "Zendrop"
+                                  : "Zendrop"}
+                              </p.PlasmicLink>
                             }
+                            <React.Fragment>
+                              {
+                                ", Shopify's top dropshipping app.\n \nThis is literally everything you need to succeed...\n \nFor free... \n \nSeriously, I'll even pay product costs to fulfill your first $300-400 in Shopify store orders. "
+                              }
+                            </React.Fragment>
                           </React.Fragment>
-                        </React.Fragment>
+                        ) : (
+                          <React.Fragment>
+                            <React.Fragment>
+                              {"Hey there, it's Jared, Founder of "}
+                            </React.Fragment>
+                            {
+                              <p.PlasmicLink
+                                className={classNames(
+                                  projectcss.all,
+                                  projectcss.a,
+                                  projectcss.__wab_text,
+                                  projectcss.plasmic_default__inline,
+                                  sty.link__b1E9T
+                                )}
+                                component={Link}
+                                href={
+                                  "https://zendrop.com/checkout-plus-fb/" as const
+                                }
+                                platform={"nextjs"}
+                              >
+                                {hasVariant(
+                                  globalVariants,
+                                  "screen",
+                                  "mobileOnly"
+                                )
+                                  ? "Zendrop \ud83d\udc4b"
+                                  : "Zendrop \ud83d\udc4b"}
+                              </p.PlasmicLink>
+                            }
+                            <React.Fragment>
+                              {
+                                "\n\nLong story short, I cashed out my Shopify stores, and now "
+                              }
+                            </React.Fragment>
+                            <span
+                              className={
+                                "plasmic_default__all plasmic_default__span"
+                              }
+                              style={{ fontWeight: 700 }}
+                            >
+                              {"I am giving away everything"}
+                            </span>
+                            <React.Fragment>
+                              {
+                                " to help you succeed too. \n \nI packaged up all the goods inside "
+                              }
+                            </React.Fragment>
+                            {
+                              <p.PlasmicLink
+                                className={classNames(
+                                  projectcss.all,
+                                  projectcss.a,
+                                  projectcss.__wab_text,
+                                  projectcss.plasmic_default__inline,
+                                  sty.link___6E7FB
+                                )}
+                                component={Link}
+                                href={
+                                  "https://zendrop.com/checkout-plus-fb/" as const
+                                }
+                                platform={"nextjs"}
+                              >
+                                {hasVariant(
+                                  globalVariants,
+                                  "screen",
+                                  "mobileOnly"
+                                )
+                                  ? "Zendrop"
+                                  : "Zendrop"}
+                              </p.PlasmicLink>
+                            }
+                            <React.Fragment>
+                              {
+                                ", Shopify's top dropshipping app.\n \nThis is literally everything you need to succeed...\n \nFor free... \n \nSeriously, I'll even pay product costs to fulfill your first $600-700 in Shopify store orders. "
+                              }
+                            </React.Fragment>
+                          </React.Fragment>
+                        )}
                       </div>
                       {true ? (
                         <div
@@ -2307,44 +2398,97 @@ function PlasmicArticle2__RenderFunc(props: {
                           sty.text__teAd4
                         )}
                       >
-                        <React.Fragment>
-                          <span
-                            className={
-                              "plasmic_default__all plasmic_default__span"
-                            }
-                            style={{ color: "#8173E5", fontWeight: 700 }}
-                          >
-                            {"Everything's free if you take action today..."}
-                          </span>
+                        {hasVariant(globalVariants, "screen", "mobileOnly") ? (
                           <React.Fragment>
-                            {
-                              "\n\nIf you are serious about changing your reality with dropshipping, then click through to the next page and signup for a year of "
-                            }
-                          </React.Fragment>
-                          {
-                            <p.PlasmicLink
-                              className={classNames(
-                                projectcss.all,
-                                projectcss.a,
-                                projectcss.__wab_text,
-                                projectcss.plasmic_default__inline,
-                                sty.link__gvRS
-                              )}
-                              component={Link}
-                              href={
-                                "https://zendrop.com/checkout-plus-fb/\n" as const
+                            <span
+                              className={
+                                "plasmic_default__all plasmic_default__span"
                               }
-                              platform={"nextjs"}
+                              style={{ color: "#8173E5", fontWeight: 700 }}
                             >
-                              {"Zendrop Plus"}
-                            </p.PlasmicLink>
-                          }
-                          <React.Fragment>
+                              {"Everything's free if you take action today..."}
+                            </span>
+                            <React.Fragment>
+                              {
+                                "\n\nIf you are serious about changing your reality with dropshipping, then click through to the next page and signup for a year of "
+                              }
+                            </React.Fragment>
                             {
-                              " for $197 (normally $79/month, this alone is worth $948...). \n\nOnce you signup, the game begins. \n\nYour first $500 in sale is near. \n\nAchieve this milestone and you won't even pay a dollar out of pocket for Zendrop Plus.\n\nI believe in you! "
+                              <p.PlasmicLink
+                                className={classNames(
+                                  projectcss.all,
+                                  projectcss.a,
+                                  projectcss.__wab_text,
+                                  projectcss.plasmic_default__inline,
+                                  sty.link__gvRS
+                                )}
+                                component={Link}
+                                href={
+                                  "https://zendrop.com/checkout-plus-fb/\n" as const
+                                }
+                                platform={"nextjs"}
+                              >
+                                {hasVariant(
+                                  globalVariants,
+                                  "screen",
+                                  "mobileOnly"
+                                )
+                                  ? "Zendrop Plus"
+                                  : "Zendrop Plus"}
+                              </p.PlasmicLink>
                             }
+                            <React.Fragment>
+                              {
+                                " for $197 (normally $79/month, this alone is worth $948...). \n\nOnce you signup, the game begins. \n\nYour first $200 in sale is near. \n\nAchieve this milestone and you won't even pay a dollar out of pocket for Zendrop Plus.\n\nI believe in you! "
+                              }
+                            </React.Fragment>
                           </React.Fragment>
-                        </React.Fragment>
+                        ) : (
+                          <React.Fragment>
+                            <span
+                              className={
+                                "plasmic_default__all plasmic_default__span"
+                              }
+                              style={{ color: "#8173E5", fontWeight: 700 }}
+                            >
+                              {"Everything's free if you take action today..."}
+                            </span>
+                            <React.Fragment>
+                              {
+                                "\n\nIf you are serious about changing your reality with dropshipping, then click through to the next page and signup for a year of "
+                              }
+                            </React.Fragment>
+                            {
+                              <p.PlasmicLink
+                                className={classNames(
+                                  projectcss.all,
+                                  projectcss.a,
+                                  projectcss.__wab_text,
+                                  projectcss.plasmic_default__inline,
+                                  sty.link__gvRS
+                                )}
+                                component={Link}
+                                href={
+                                  "https://zendrop.com/checkout-plus-fb/\n" as const
+                                }
+                                platform={"nextjs"}
+                              >
+                                {hasVariant(
+                                  globalVariants,
+                                  "screen",
+                                  "mobileOnly"
+                                )
+                                  ? "Zendrop Plus"
+                                  : "Zendrop Plus"}
+                              </p.PlasmicLink>
+                            }
+                            <React.Fragment>
+                              {
+                                " for $197 (normally $79/month, this alone is worth $948...). \n\nOnce you signup, the game begins. \n\nYour first $500 in sale is near. \n\nAchieve this milestone and you won't even pay a dollar out of pocket for Zendrop Plus.\n\nI believe in you! "
+                              }
+                            </React.Fragment>
+                          </React.Fragment>
+                        )}
                       </div>
                       <p.PlasmicImg
                         alt={""}
