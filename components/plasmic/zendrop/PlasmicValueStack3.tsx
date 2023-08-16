@@ -485,7 +485,7 @@ function PlasmicValueStack3__RenderFunc(props: {
                       sty.text__brgam
                     )}
                   >
-                    {"30-Day Zendrop PLUS App Free Trial:"}
+                    {"365-Day Zendrop PLUS App Deal:"}
                   </div>
                 </div>
               </div>
@@ -638,7 +638,7 @@ function PlasmicValueStack3__RenderFunc(props: {
                       sty.text__kBaFp
                     )}
                   >
-                    {"$100 In Order Fulfillment Credits:"}
+                    {"$197 In Order Fulfillment Credits:"}
                   </div>
                 </div>
               </div>
@@ -1891,7 +1891,7 @@ function PlasmicValueStack3__RenderFunc(props: {
                       sty.text__o5Vpr
                     )}
                   >
-                    {"30-Day Zendrop \nPLUS App Free Trial:"}
+                    {"365-Day Zendrop \nPLUS App Deal:"}
                   </div>
                 </div>
               </div>
@@ -2044,7 +2044,7 @@ function PlasmicValueStack3__RenderFunc(props: {
                       sty.text__xncH6
                     )}
                   >
-                    {"~$500 In Order Fulfillment:"}
+                    {"$197 In Order Fulfillment Credits:"}
                   </div>
                 </div>
               </div>

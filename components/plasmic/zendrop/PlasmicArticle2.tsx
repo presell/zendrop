@@ -2369,8 +2369,14 @@ function PlasmicArticle2__RenderFunc(props: {
                           "__wab_instance",
                           sty.valueStack3
                         )}
+                        slot={"Price: $948"}
                         slot22={"$11,504"}
                         slot25={"$197"}
+                        slot28={
+                          hasVariant(globalVariants, "screen", "mobileOnly")
+                            ? "Price: $948"
+                            : "Price: $79"
+                        }
                         slot4={"Price: ~$700"}
                         slot49={
                           hasVariant(globalVariants, "screen", "mobileOnly")
@@ -2439,7 +2445,7 @@ function PlasmicArticle2__RenderFunc(props: {
                             }
                             <React.Fragment>
                               {
-                                " for $197 (normally $79/month, this alone is worth $948...). \n\nOnce you signup, the game begins. \n\nYour first $200 in sale is near. \n\nAchieve this milestone and you won't even pay a dollar out of pocket for Zendrop Plus.\n\nI believe in you! "
+                                " for $197 (normally $79/month, this alone is worth $948...). \n\nOnce you signup, the game begins. \n\nYour first $300-500 in sale is near. \n\nAchieve this milestone and you won't even pay a dollar out of pocket for Zendrop Plus.\n\nI believe in you! "
                               }
                             </React.Fragment>
                           </React.Fragment>
@@ -2484,7 +2490,7 @@ function PlasmicArticle2__RenderFunc(props: {
                             }
                             <React.Fragment>
                               {
-                                " for $197 (normally $79/month, this alone is worth $948...). \n\nOnce you signup, the game begins. \n\nYour first $500 in sale is near. \n\nAchieve this milestone and you won't even pay a dollar out of pocket for Zendrop Plus.\n\nI believe in you! "
+                                " for $197 (normally $79/month, this alone is worth $948...). \n\nOnce you signup, the game begins. \n\nYour first $300-500 in sale is near. \n\nAchieve this milestone and you won't even pay a dollar out of pocket for Zendrop Plus.\n\nI believe in you! "
                               }
                             </React.Fragment>
                           </React.Fragment>
